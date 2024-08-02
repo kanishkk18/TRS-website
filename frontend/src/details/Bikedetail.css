@@ -1,0 +1,88 @@
+.bike h2{
+    color: #ffffff;
+    font-size: 20px;
+    background-color: #000000;
+    border-bottom: 1px solid rgb(48, 48, 48);
+    margin-top: 0%;
+    padding: 10px 0px;
+}
+
+.bike{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-width: 370px;
+    position: fixed;
+    height: 100svh;
+    background-image: url("https://res.cloudinary.com/kanishkkcloud18/image/upload/v1719517641/CONFERIO/psw/vcqsfequaegtb7htco5q.jpg");
+    background-position:center;
+    background-size:cover;
+}
+
+.bike-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: -90px;
+  }
+  
+  .bike-container form {
+    border-radius: 8px;
+    width: 100%;
+
+  }
+  
+  .bike-form {
+    margin-bottom: 20px;
+    column-gap: 10px;
+  }
+
+  .bike-form label{
+    color: #ffffff;
+    font-size: 16px;
+    border-radius: 2px;
+  }
+  
+  .bike-form input{
+    width: 100%;
+    padding: 10px 0px;
+    border-radius: 8px;
+    color: #ffffff;
+    background-color: #222222;
+  }
+
+  #bike-brand{
+    width: 100%;
+    height: 40px;
+    border-radius: 8px;
+    color: #ffffff;
+    background-color: #222222;
+    border: none;
+    color: #a7a5a5;
+    font-size: 14px;
+
+  }
+  
+  textarea {
+    resize:auto;
+    color: white;
+  }
+  
+  .bike-next{
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #ffffff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .bike-next:hover {
+    background-color: #0056b3;
+  }
+  

@@ -1,0 +1,60 @@
+.signup-top-p{
+    font-size: 40px;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.signup{
+   background-size: cover;
+    background-image: url('https://res.cloudinary.com/kanishkkcloud18/image/upload/v1719517641/CONFERIO/psw/vcqsfequaegtb7htco5q.jpg');
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    margin-top: -40px;
+}
+
+.signup-form {
+    justify-content:center;
+    align-items:center;
+    background: #fff;
+    border-bottom-right-radius:20px;
+    border-bottom-left-radius:20px;
+    border-top-left-radius:60px;
+    border-top-right-radius:0px;
+    height:85%;
+    width:100%;
+    min-width:370px;
+    position: absolute;
+    bottom: 0%;
+  }
+  
+  .signup-form input{
+    margin-top: 30px;
+  }
+
+.signup-para{
+    position: absolute;
+    bottom: 2%;
+    left: 15%;
+    right: 15%;
+    text-align: center;
+}
+
+.signup-button{
+    width: 90%;
+    padding: 1rem;
+    background: #000000;
+    color: #fff;
+    font-size:16px;
+    border: none;
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-top-left-radius:10px;
+    border-top-right-radius:2px;
+    cursor: pointer;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
